@@ -2,7 +2,7 @@
 
 <p>Welcome to my page! </br> I'm John, Front-End Web Developer from <img src="https://cdn-icons-png.flaticon.com/512/197/197561.png" width="13"/> <b>Pasay City, Philippines.</b> </p>
 
-###Languages and Tools
+### Languages and Tools
 <p>
   <a href="https://www.python.org/"> 
     <img alt="Python" src="https://img.shields.io/badge/-Python-000000?style=flat-square&logo=python&logoColor=3776AB" />
