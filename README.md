@@ -42,7 +42,7 @@
     <img alt="Node.js" src="https://img.shields.io/badge/-Node.js-000000?style=flat-square&logo=node.js&logoColor=339933" />
   </a>
   <a href="https://www.php.net/">
-    <img alt="PHP" src="https://img.shields.io/badge/-Node.js-000000?style=flat-square&logo=php&logoColor=777BB4" />
+    <img alt="PHP" src="https://img.shields.io/badge/-PHP-000000?style=flat-square&logo=php&logoColor=777BB4" />
   </a>
 <!-- <h2></h2> -->
 </p>
