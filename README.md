@@ -62,8 +62,8 @@
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://ercsssn.github.io/recipes-project/"><b>Recipes</b></a></td>
-      <td><a href="https://github.com/ercsssn/recipes-project"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ercsssn&repo=recipes-project&title_color=fff&icon_color=fff&text_color=fff&bg_color=000000&hide_border=true&show_owner=true" /></a></td>
+      <td><a href="https://ercsssn.github.io/etch-a-sketch-project/"><b>Etch-a-Sketch</b></a></td>
+      <td><a href="https://github.com/ercsssn/etch-a-sketch-project"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ercsssn&repo=recipes-project&title_color=fff&icon_color=fff&text_color=fff&bg_color=000000&hide_border=true&show_owner=true" /></a></td>
     </tr>
     <tr>
       <td><a href="https://ercsssn.github.io/landing-page-project/"><b>Landing Page</b></a></td>
