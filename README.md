@@ -51,7 +51,7 @@
     <img alt="SQLite" src="https://img.shields.io/badge/-SQLite-000000?style=flat-square&logo=sqlite&logoColor=003B57" />
   </a>
   <a href="https://www.mysql.com/">
-    <img alt="MySQL" src="https://img.shields.io/badge/-mysql-000000?style=flat-square&logo=sqlite&logoColor=4479A1" />
+    <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-000000?style=flat-square&logo=mysql&logoColor=4479A1" />
   </a>
 <!-- <h2></h2> -->
 </p>
