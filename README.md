@@ -44,6 +44,9 @@
   <a href="https://www.php.net/">
     <img alt="PHP" src="https://img.shields.io/badge/-PHP-000000?style=flat-square&logo=php&logoColor=777BB4" />
   </a>
+  <a href="https://laravel.com/">
+    <img alt="Laravel" src="https://img.shields.io/badge/-Laravel-000000?style=flat-square&logo=laravel&logoColor=FF2D20" />
+  </a>
 <!-- <h2></h2> -->
 </p>
 <p>
