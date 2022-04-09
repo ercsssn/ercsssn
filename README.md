@@ -38,6 +38,12 @@
   <a href="https://www.ecma-international.org/publications-and-standards/standards/ecma-262/">
     <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-000000?style=flat-square&logo=JavaScript&logoColor=F7DF1E" />
   </a>
+  <a href="https://reactjs.org/">
+    <img alt="React" src="https://img.shields.io/badge/-React-000000?style=flat-square&logo=react&logoColor=61DAFB" />
+  </a>
+  <a href="https://expressjs.com/">
+    <img alt="Express" src="https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white" />
+  </a>
   <a href="https://nodejs.org/en/">
     <img alt="Node.js" src="https://img.shields.io/badge/-Node.js-000000?style=flat-square&logo=node.js&logoColor=339933" />
   </a>
@@ -55,6 +61,9 @@
   </a>
   <a href="https://www.mysql.com/">
     <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-000000?style=flat-square&logo=mysql&logoColor=4479A1" />
+  </a>
+  <a href="https://www.mongodb.com/">
+    <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-000000?style=flat-square&logo=mongodb&logoColor=47A248" />
   </a>
 <!-- <h2></h2> -->
 </p>
