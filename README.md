@@ -84,5 +84,5 @@
 
 ### 📊 GitHub Stats
 
-| <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ercsssn&show_icons=true&custom_title=ercsssn's Stats&title_color=fff&icon_color=fff&text_color=fff&bg_color=000000&hide_border=true" alt="ercsssn github stats" /></a> | <a href="https://insights.stackoverflow.com/survey/2021#section-most-popular-technologies-programming-scripting-and-markup-languages"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ercsssn&title_color=fff&text_color=fff&bg_color=000000&hide_border=true&hide=jupyter%20notebook,html,css" /></a> |
+| <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ercsssn&show_icons=true&custom_title=ercsssn's Stats&title_color=fff&icon_color=fff&text_color=fff&bg_color=000000&hide_border=true" alt="ercsssn github stats" /></a> | <a href="https://insights.stackoverflow.com/survey/2021#section-most-popular-technologies-programming-scripting-and-markup-languages"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ercsssn&title_color=fff&text_color=fff&bg_color=000000&hide_border=true&hide=jupyter%20notebook,html,css,blade,shell" /></a> |
 | ------------- | ------------- |
