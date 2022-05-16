@@ -80,8 +80,8 @@
 <table>
   <thead align="center">
     <tr border: none;>
-      <td><b>Projects</b></td>
-      <td><b>Repositories</b></td>
+      <td><b>Project</b></td>
+      <td><b>Repository</b></td>
     </tr>
   </thead>
   <tbody>
@@ -90,8 +90,8 @@
       <td><a href="https://github.com/ercsssn/etch-a-sketch-project"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ercsssn&repo=etch-a-sketch-project&title_color=fff&icon_color=fff&text_color=fff&bg_color=000000&hide_border=true&show_owner=true" /></a></td>
     </tr>
     <tr>
-      <td><a href="https://ercsssn.github.io/landing-page-project/"><b>Landing Page</b></a></td>
-      <td><a href="https://github.com/ercsssn/landing-page-project"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ercsssn&repo=landing-page-project&title_color=fff&icon_color=fff&text_color=fff&bg_color=000000&hide_border=true&show_owner=true" /></a></td>
+      <td><a href="https://ercsssn.github.io/calculator-project/"><b>Calculator</b></a></td>
+      <td><a href="https://github.com/ercsssn/calculator-project"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ercsssn&repo=landing-page-project&title_color=fff&icon_color=fff&text_color=fff&bg_color=000000&hide_border=true&show_owner=true" /></a></td>
     </tr>
     <tr>
       <td><a href="https://ercsssn.github.io/rock-paper-scissors-project/"><b>Rock Paper Scissors</b></a></td>
