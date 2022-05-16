@@ -4,6 +4,18 @@
 
 ### Stuff I code with
 <p>
+  <a href="https://whatwg.org/">
+    <img alt="HTML" src="https://img.shields.io/badge/-HTML5-000000?style=flat-square&logo=html5&logoColor=E34F26" />
+  </a>
+  <a href="https://www.w3.org/TR/CSS/#css">
+    <img alt="CSS" src="https://img.shields.io/badge/-CSS3-000000?style=flat-square&logo=css3&logoColor=1572B6" />
+  </a>
+  <a href="https://www.ecma-international.org/publications-and-standards/standards/ecma-262/">
+    <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-000000?style=flat-square&logo=JavaScript&logoColor=F7DF1E" />
+  </a>
+</p>
+
+<p>
   <a href="https://www.python.org/"> 
     <img alt="Python" src="https://img.shields.io/badge/-Python-000000?style=flat-square&logo=python&logoColor=3776AB" />
   </a>
@@ -31,19 +43,19 @@
   <a href="https://www.anaconda.com/">
     <img alt="anaconda" src="https://img.shields.io/badge/-Anaconda-000000?style=flat-square&logo=anaconda&logoColor=44A833" />
   </a>
-  
+
+<p>
+<a href="https://www.php.net/">
+    <img alt="PHP" src="https://img.shields.io/badge/-PHP-000000?style=flat-square&logo=php&logoColor=777BB4" />
+  </a>
+  <a href="https://laravel.com/">
+    <img alt="Laravel" src="https://img.shields.io/badge/-Laravel-000000?style=flat-square&logo=laravel&logoColor=FF2D20" />
+  </a>
+</p>
+ 
 <!--    <h2></h2> -->
 </p> 
 <p>
-  <a href="https://whatwg.org/">
-    <img alt="HTML" src="https://img.shields.io/badge/-HTML5-000000?style=flat-square&logo=html5&logoColor=E34F26" />
-  </a>
-  <a href="https://www.w3.org/TR/CSS/#css">
-    <img alt="CSS" src="https://img.shields.io/badge/-CSS3-000000?style=flat-square&logo=css3&logoColor=1572B6" />
-  </a>
-  <a href="https://www.ecma-international.org/publications-and-standards/standards/ecma-262/">
-    <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-000000?style=flat-square&logo=JavaScript&logoColor=F7DF1E" />
-  </a>
   <a href="https://reactjs.org/">
     <img alt="React" src="https://img.shields.io/badge/-React-000000?style=flat-square&logo=react&logoColor=61DAFB" />
   </a>
@@ -53,12 +65,7 @@
   <a href="https://nodejs.org/en/">
     <img alt="Node.js" src="https://img.shields.io/badge/-Node.js-000000?style=flat-square&logo=node.js&logoColor=339933" />
   </a>
-  <a href="https://www.php.net/">
-    <img alt="PHP" src="https://img.shields.io/badge/-PHP-000000?style=flat-square&logo=php&logoColor=777BB4" />
-  </a>
-  <a href="https://laravel.com/">
-    <img alt="Laravel" src="https://img.shields.io/badge/-Laravel-000000?style=flat-square&logo=laravel&logoColor=FF2D20" />
-  </a>
+  
 <!-- <h2></h2> -->
 </p>
 <p>
