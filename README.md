@@ -91,7 +91,7 @@
     </tr>
     <tr>
       <td><a href="https://ercsssn.github.io/calculator-project/"><b>Calculator</b></a></td>
-      <td><a href="https://github.com/ercsssn/calculator-project"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ercsssn&repo=landing-page-project&title_color=fff&icon_color=fff&text_color=fff&bg_color=000000&hide_border=true&show_owner=true" /></a></td>
+      <td><a href="https://github.com/ercsssn/calculator-project"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ercsssn&repo=calculator-project&title_color=fff&icon_color=fff&text_color=fff&bg_color=000000&hide_border=true&show_owner=true" /></a></td>
     </tr>
     <tr>
       <td><a href="https://ercsssn.github.io/rock-paper-scissors-project/"><b>Rock Paper Scissors</b></a></td>
