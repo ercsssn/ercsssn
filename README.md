@@ -7,6 +7,12 @@
   <a href="https://www.python.org/"> 
     <img alt="Python" src="https://img.shields.io/badge/-Python-000000?style=flat-square&logo=python&logoColor=3776AB" />
   </a>
+  <a href="https://www.djangoproject.com/">
+    <img alt="Django" src="https://img.shields.io/badge/-Django-000000?style=flat-square&logo=django&logoColor=092E20" />
+  </a>
+  <a href="https://flask.palletsprojects.com/en/2.1.x/">
+    <img alt="Flask" src="https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=000000" />
+  </a>
   <a href="https://numpy.org/">
     <img alt="numpy" src="https://img.shields.io/badge/-NumPy-000000?style=flat-square&logo=numpy&logoColor=013243" />
   </a>
