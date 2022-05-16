@@ -11,7 +11,7 @@
     <img alt="Django" src="https://img.shields.io/badge/-Django-000000?style=flat-square&logo=django&logoColor=092E20" />
   </a>
   <a href="https://flask.palletsprojects.com/en/2.1.x/">
-    <img alt="Flask" src="https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=000000" />
+    <img alt="Flask" src="https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white" />
   </a>
   <a href="https://numpy.org/">
     <img alt="numpy" src="https://img.shields.io/badge/-NumPy-000000?style=flat-square&logo=numpy&logoColor=013243" />
