@@ -25,6 +25,9 @@
   <a href="https://flask.palletsprojects.com/en/2.1.x/">
     <img alt="Flask" src="https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white" />
   </a>
+  <a href="https://www.sqlite.org/index.html">
+    <img alt="SQLite" src="https://img.shields.io/badge/-SQLite-000000?style=flat-square&logo=sqlite&logoColor=003B57" />
+  </a>
   <a href="https://numpy.org/">
     <img alt="numpy" src="https://img.shields.io/badge/-NumPy-000000?style=flat-square&logo=numpy&logoColor=013243" />
   </a>
@@ -51,6 +54,9 @@
   <a href="https://laravel.com/">
     <img alt="Laravel" src="https://img.shields.io/badge/-Laravel-000000?style=flat-square&logo=laravel&logoColor=FF2D20" />
   </a>
+  <a href="https://www.mysql.com/">
+    <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-000000?style=flat-square&logo=mysql&logoColor=4479A1" />
+  </a>
 </p>
  
 <!--    <h2></h2> -->
@@ -64,16 +70,6 @@
   </a>
   <a href="https://nodejs.org/en/">
     <img alt="Node.js" src="https://img.shields.io/badge/-Node.js-000000?style=flat-square&logo=node.js&logoColor=339933" />
-  </a>
-  
-<!-- <h2></h2> -->
-</p>
-<p>
-  <a href="https://www.sqlite.org/index.html">
-    <img alt="SQLite" src="https://img.shields.io/badge/-SQLite-000000?style=flat-square&logo=sqlite&logoColor=003B57" />
-  </a>
-  <a href="https://www.mysql.com/">
-    <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-000000?style=flat-square&logo=mysql&logoColor=4479A1" />
   </a>
   <a href="https://www.mongodb.com/">
     <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-000000?style=flat-square&logo=mongodb&logoColor=47A248" />
