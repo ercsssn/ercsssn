@@ -34,12 +34,6 @@
   <a href="https://pandas.pydata.org/">
     <img alt="pandas" src="https://img.shields.io/badge/-pandas-000000?style=flat-square&logo=pandas&logoColor=150458" />
   </a>
-  <a href="https://matplotlib.org/">
-    <img alt="matplotlib" src="https://img.shields.io/badge/-matplotlib-000000?style=flat-square&logo=python&logoColor=white" />
-  </a>
-  <a href="https://seaborn.pydata.org/">
-    <img alt="seaborn" src="https://img.shields.io/badge/-seaborn-000000?style=flat-square&logo=python&logoColor=white" />
-  </a>
   <a href="https://jupyter.org/">
     <img alt="jupyter" src="https://img.shields.io/badge/-Jupyter Notebook-000000?style=flat-square&logo=jupyter&logoColor=F37626" />
   </a>
