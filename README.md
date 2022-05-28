@@ -23,15 +23,6 @@
 
 ### Technology stacks I work with
 <p>
-  <a href="https://laravel.com/">
-    <img alt="Laravel" src="https://img.shields.io/badge/-Laravel-000000?style=flat-square&logo=laravel&logoColor=FF2D20" />
-  </a>
-  <a href="https://www.mysql.com/">
-    <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-000000?style=flat-square&logo=mysql&logoColor=4479A1" />
-  </a>
-</p>
-<!--    <h2></h2> -->
-<p>
   <a href="https://reactjs.org/">
     <img alt="React" src="https://img.shields.io/badge/-React-000000?style=flat-square&logo=react&logoColor=61DAFB" />
   </a>
@@ -44,16 +35,24 @@
   <a href="https://www.mongodb.com/">
     <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-000000?style=flat-square&logo=mongodb&logoColor=47A248" />
   </a>
-<!-- <h2></h2> -->
 </p>
 <!-- <h2></h2> -->
+<p>
+  <a href="https://laravel.com/">
+    <img alt="Laravel" src="https://img.shields.io/badge/-Laravel-000000?style=flat-square&logo=laravel&logoColor=FF2D20" />
+  </a>
+  <a href="https://www.mysql.com/">
+    <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-000000?style=flat-square&logo=mysql&logoColor=4479A1" />
+  </a>
+</p>
+<!--    <h2></h2> -->
 <p>
   <a href="https://www.djangoproject.com/">
     <img alt="Django" src="https://img.shields.io/badge/-Django-000000?style=flat-square&logo=django&logoColor=092E20" />
   </a>
-<!--  <a href="https://flask.palletsprojects.com/en/2.1.x/">
+  <a href="https://flask.palletsprojects.com/en/2.1.x/">
     <img alt="Flask" src="https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white" />
-  </a> -->
+  </a>
 </p>
 
 <p>
