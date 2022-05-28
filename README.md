@@ -22,9 +22,9 @@
   <a href="https://www.djangoproject.com/">
     <img alt="Django" src="https://img.shields.io/badge/-Django-000000?style=flat-square&logo=django&logoColor=092E20" />
   </a>
-  <a href="https://flask.palletsprojects.com/en/2.1.x/">
+<!--  <a href="https://flask.palletsprojects.com/en/2.1.x/">
     <img alt="Flask" src="https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white" />
-  </a>
+  </a> -->
   <a href="https://www.sqlite.org/index.html">
     <img alt="SQLite" src="https://img.shields.io/badge/-SQLite-000000?style=flat-square&logo=sqlite&logoColor=003B57" />
   </a>
