@@ -2,7 +2,7 @@
 
 <p>Welcome to my page! </br> I'm John Ericsson, Front-End Developer from <img src="https://cdn-icons-png.flaticon.com/512/197/197561.png" width="13"/> <b>Pasay City, Philippines.</b> </p>
 
-### Stuff I code with
+### Languages I code with
 <p>
   <a href="https://whatwg.org/">
     <img alt="HTML" src="https://img.shields.io/badge/-HTML5-000000?style=flat-square&logo=html5&logoColor=E34F26" />
@@ -13,38 +13,16 @@
   <a href="https://www.ecma-international.org/publications-and-standards/standards/ecma-262/">
     <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-000000?style=flat-square&logo=JavaScript&logoColor=F7DF1E" />
   </a>
-</p>
-
-<p>
   <a href="https://www.python.org/"> 
     <img alt="Python" src="https://img.shields.io/badge/-Python-000000?style=flat-square&logo=python&logoColor=3776AB" />
   </a>
-  <a href="https://www.djangoproject.com/">
-    <img alt="Django" src="https://img.shields.io/badge/-Django-000000?style=flat-square&logo=django&logoColor=092E20" />
-  </a>
-<!--  <a href="https://flask.palletsprojects.com/en/2.1.x/">
-    <img alt="Flask" src="https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white" />
-  </a> -->
-  <a href="https://www.sqlite.org/index.html">
-    <img alt="SQLite" src="https://img.shields.io/badge/-SQLite-000000?style=flat-square&logo=sqlite&logoColor=003B57" />
-  </a>
-  <a href="https://numpy.org/">
-    <img alt="numpy" src="https://img.shields.io/badge/-NumPy-000000?style=flat-square&logo=numpy&logoColor=013243" />
-  </a>
-  <a href="https://pandas.pydata.org/">
-    <img alt="pandas" src="https://img.shields.io/badge/-pandas-000000?style=flat-square&logo=pandas&logoColor=150458" />
-  </a>
-  <a href="https://jupyter.org/">
-    <img alt="jupyter" src="https://img.shields.io/badge/-Jupyter Notebook-000000?style=flat-square&logo=jupyter&logoColor=F37626" />
-  </a>
-  <a href="https://www.anaconda.com/">
-    <img alt="anaconda" src="https://img.shields.io/badge/-Anaconda-000000?style=flat-square&logo=anaconda&logoColor=44A833" />
-  </a>
-
-<p>
-<a href="https://www.php.net/">
+  <a href="https://www.php.net/">
     <img alt="PHP" src="https://img.shields.io/badge/-PHP-000000?style=flat-square&logo=php&logoColor=777BB4" />
   </a>
+</p>
+
+### Technology stacks I work with
+<p>
   <a href="https://laravel.com/">
     <img alt="Laravel" src="https://img.shields.io/badge/-Laravel-000000?style=flat-square&logo=laravel&logoColor=FF2D20" />
   </a>
@@ -52,9 +30,7 @@
     <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-000000?style=flat-square&logo=mysql&logoColor=4479A1" />
   </a>
 </p>
- 
 <!--    <h2></h2> -->
-</p> 
 <p>
   <a href="https://reactjs.org/">
     <img alt="React" src="https://img.shields.io/badge/-React-000000?style=flat-square&logo=react&logoColor=61DAFB" />
@@ -70,6 +46,34 @@
   </a>
 <!-- <h2></h2> -->
 </p>
+<!-- <h2></h2> -->
+<p>
+  <a href="https://www.djangoproject.com/">
+    <img alt="Django" src="https://img.shields.io/badge/-Django-000000?style=flat-square&logo=django&logoColor=092E20" />
+  </a>
+<!--  <a href="https://flask.palletsprojects.com/en/2.1.x/">
+    <img alt="Flask" src="https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white" />
+  </a> -->
+</p>
+
+<p>
+  <a href="https://numpy.org/">
+    <img alt="numpy" src="https://img.shields.io/badge/-NumPy-000000?style=flat-square&logo=numpy&logoColor=013243" />
+  </a>
+  <a href="https://pandas.pydata.org/">
+    <img alt="pandas" src="https://img.shields.io/badge/-pandas-000000?style=flat-square&logo=pandas&logoColor=150458" />
+  </a>
+  <a href="https://www.sqlite.org/index.html">
+    <img alt="SQLite" src="https://img.shields.io/badge/-SQLite-000000?style=flat-square&logo=sqlite&logoColor=003B57" />
+  </a>
+  <a href="https://jupyter.org/">
+    <img alt="jupyter" src="https://img.shields.io/badge/-Jupyter Notebook-000000?style=flat-square&logo=jupyter&logoColor=F37626" />
+  </a>
+  <a href="https://www.anaconda.com/">
+    <img alt="anaconda" src="https://img.shields.io/badge/-Anaconda-000000?style=flat-square&logo=anaconda&logoColor=44A833" />
+  </a>
+</p>
+
 <h3>Open source projects</h3>
 <table>
   <thead align="center">
