@@ -23,7 +23,7 @@
     <img alt="PHP" src="https://img.shields.io/badge/-PHP-000000?style=flat-square&logo=php&logoColor=777BB4" />
   </a>
   <a href="https://dev.java//"> 
-    <img alt="Java" src="https://img.shields.io/badge/-Java-000000?style=flat-square&logo=java&logoColor=3776AB" />
+    <img alt="Java" src="https://img.shields.io/badge/-Java-000000?style=flat-square&logo=java&logoColor=F89820" />
   </a>
 </p>
 
