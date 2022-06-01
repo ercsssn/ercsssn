@@ -16,8 +16,14 @@
   <a href="https://www.python.org/"> 
     <img alt="Python" src="https://img.shields.io/badge/-Python-000000?style=flat-square&logo=python&logoColor=3776AB" />
   </a>
+  <a href="https://www.ruby-lang.org/en/"> 
+    <img alt="Ruby" src="https://img.shields.io/badge/-Ruby-000000?style=flat-square&logo=ruby&logoColor=CC342D" />
+  </a>
   <a href="https://www.php.net/">
     <img alt="PHP" src="https://img.shields.io/badge/-PHP-000000?style=flat-square&logo=php&logoColor=777BB4" />
+  </a>
+  <a href="https://dev.java//"> 
+    <img alt="Java" src="https://img.shields.io/badge/-Java-000000?style=flat-square&logo=java&logoColor=3776AB" />
   </a>
 </p>
 
