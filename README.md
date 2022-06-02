@@ -50,6 +50,12 @@
   <a href="https://laravel.com/">
     <img alt="Laravel" src="https://img.shields.io/badge/-Laravel-000000?style=flat-square&logo=laravel&logoColor=FF2D20" />
   </a>
+  <a href="https://jquery.com/">
+    <img alt="jQuery" src="https://img.shields.io/badge/-jQuery-000000?style=flat-square&logo=jquery&logoColor=0769AD" />
+  </a>
+  <a href="https://getbootstrap.com/">
+    <img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-000000?style=flat-square&logo=bootstrap&logoColor=7952B3" />
+  </a>
   <a href="https://www.mysql.com/">
     <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-000000?style=flat-square&logo=mysql&logoColor=4479A1" />
   </a>
