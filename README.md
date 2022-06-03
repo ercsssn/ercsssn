@@ -65,6 +65,9 @@
   <a href="https://www.djangoproject.com/">
     <img alt="Django" src="https://img.shields.io/badge/-Django-000000?style=flat-square&logo=django&logoColor=092E20" />
   </a>
+  <a href="https://www.postgresql.org/">
+    <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-000000?style=flat-square&logo=postgresql&logoColor=4169E1" />
+  </a>
   <!-- <a href="https://flask.palletsprojects.com/en/2.1.x/">
     <img alt="Flask" src="https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white" />
   </a> -->
