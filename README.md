@@ -32,9 +32,6 @@
   <a href="https://reactjs.org/">
     <img alt="React" src="https://img.shields.io/badge/-React-000000?style=flat-square&logo=react&logoColor=61DAFB" />
   </a>
-  <a href="https://redux.js.org/">
-    <img alt="Redux" src="https://img.shields.io/badge/-Redux-000000?style=flat-square&logo=redux&logoColor=764ABC" />
-  </a>
     <a href="https://nodejs.org/en/">
     <img alt="Node.js" src="https://img.shields.io/badge/-Node.js-000000?style=flat-square&logo=node.js&logoColor=339933" />
   </a>
