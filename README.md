@@ -14,7 +14,7 @@
     <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-000000?style=flat-square&logo=JavaScript&logoColor=F7DF1E" />
   </a>
   <a href="https://www.python.org/"> 
-    <img alt="Python" src="https://img.shields.io/badge/-Python-000000?style=flat-square&logo=python&logoColor=3776AB" />
+    <img alt="Python" src="https://img.shields.io/badge/-Python-000000?style=flat-square&logo=python&logoColor=4B8BBE"/>
   </a>
   <a href="https://www.ruby-lang.org/en/"> 
     <img alt="Ruby" src="https://img.shields.io/badge/-Ruby-000000?style=flat-square&logo=ruby&logoColor=CC342D" />
