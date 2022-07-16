@@ -71,6 +71,21 @@
 </p>
 
 <p>
+  <a href="https://flask.palletsprojects.com/en/2.1.x/">
+    <img alt="Flask" src="https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white" />
+  </a>
+  <a href="https://flask.palletsprojects.com/en/2.1.x/">
+    <img alt="Flask" src="https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=jinja&logoColor=white" />
+  </a>
+  <a href="https://flask.palletsprojects.com/en/2.1.x/">
+    <img alt="Flask" src="https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=heroku&logoColor=white" />
+  </a>
+  <a href="https://flask.palletsprojects.com/en/2.1.x/">
+    <img alt="Flask" src="https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=docker&logoColor=white" />
+  </a>
+</p>
+
+<p>
   <a href="https://numpy.org/">
     <img alt="numpy" src="https://img.shields.io/badge/-NumPy-000000?style=flat-square&logo=numpy&logoColor=013243" />
   </a>
