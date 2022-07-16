@@ -26,6 +26,7 @@
     <img alt="Java" src="https://img.shields.io/badge/-Java-000000?style=flat-square&logo=openjdk&logoColor=FFFFFF" />
   </a>
 </p>
+<p align="left"> <a href="https://developer.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a>
 
 ### Technology stacks I work with
 <p>
