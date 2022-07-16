@@ -3,7 +3,7 @@
 <p>Welcome to my page! </br> I'm John Ericsson, Front-end Developer from <img src="https://cdn-icons-png.flaticon.com/512/197/197561.png" width="13"/> <b>Pasay City, Philippines.</b> </p>
 
 ### Languages I code with
-<p>
+<!--- <p>
   <a href="https://whatwg.org/">
     <img alt="HTML" src="https://img.shields.io/badge/-HTML5-000000?style=flat-square&logo=html5&logoColor=E34F26" />
   </a>
@@ -25,7 +25,7 @@
   <a href="https://dev.java//"> 
     <img alt="Java" src="https://img.shields.io/badge/-Java-000000?style=flat-square&logo=openjdk&logoColor=FFFFFF" />
   </a>
-</p>
+</p> --->
 <p align="left"> 
   <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
   </a>
