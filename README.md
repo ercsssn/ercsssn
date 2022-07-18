@@ -25,6 +25,7 @@
   <a href="https://dev.java//"> 
     <img alt="Java" src="https://img.shields.io/badge/-Java-000000?style=flat-square&logo=openjdk&logoColor=FFFFFF" />
   </a>
+  <a href="https://kotlinlang.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="30"   height="30"/> </a>
 </p> --->
 <p align="left"> 
   <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
