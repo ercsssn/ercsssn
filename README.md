@@ -94,9 +94,9 @@
   <a href="https://www.heroku.com/">
     <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-000000?style=flat-square&logo=heroku&logoColor=430098" />
   </a>
-<!-- <a href="https://www.docker.com/">
+  <a href="https://www.docker.com/">
     <img alt="Docker" src="https://img.shields.io/badge/-Docker-000000?style=flat-square&logo=docker&logoColor=2496ED" />
-  </a> -->
+  </a> 
 </p>
 
 <p>
