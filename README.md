@@ -144,4 +144,4 @@
 ### 📊 GitHub Stats
 
 <!-- | <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ercsssn&show_icons=true&custom_title=ercsssn's Stats&title_color=fff&icon_color=fff&text_color=fff&bg_color=000000&hide_border=true" alt="ercsssn github stats" /></a> | --> <a href="https://survey.stackoverflow.co/2022/#most-popular-technologies-language-prof"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ercsssn&title_color=fff&text_color=fff&bg_color=000000&hide_border=true&hide=html,css,blade,shell,vue,jupyter%20notebook,scss,handlebars,less,typescript" /></a> |
-<!--| ------------- |--> ------------- |
+<!--| ------------- | ------------- |-->
