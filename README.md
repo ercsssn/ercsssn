@@ -74,6 +74,11 @@
     <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-000000?style=flat-square&logo=mysql&logoColor=4479A1" />
   </a>
 </p>
+<p>
+  <a href="https://rubyonrails.org/">
+    <img alt="Rails" src="https://img.shields.io/badge/-Ruby on Rails-000000?style=flat-square&logo=rubyonrails&logoColor=CC0000" />
+  </a>
+</p>
 <!--    <h2></h2> -->
 <p>
   <a href="https://www.djangoproject.com/">
