@@ -82,7 +82,7 @@
     <img alt="RubyGems" src="https://img.shields.io/badge/-RubyGems-000000?style=flat-square&logo=rubygems&logoColor=E9573F" />
   </a>
   <a href="https://rubocop.org/">
-    <img alt="RuboCop" src="https://img.shields.io/badge/-RuboCop-000000?style=flat-square&logo=rubocop&logoColor=000000" />
+    <img alt="RuboCop" src="https://img.shields.io/badge/-RuboCop-000000?style=flat-square&logo=rubocop&logoColor=white" />
   </a>
 </p>
 <!--    <h2></h2> -->
