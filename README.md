@@ -59,6 +59,18 @@
     <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-000000?style=flat-square&logo=mongodb&logoColor=47A248" />
   </a>
 </p>
+
+<p>
+  <a href="https://rubyonrails.org/">
+    <img alt="Rails" src="https://img.shields.io/badge/-Ruby on Rails-000000?style=flat-square&logo=rubyonrails&logoColor=CC0000" />
+  </a>
+  <a href="https://rubygems.org/">
+    <img alt="RubyGems" src="https://img.shields.io/badge/-RubyGems-000000?style=flat-square&logo=rubygems&logoColor=E9573F" />
+  </a>
+  <a href="https://rubocop.org/">
+    <img alt="RuboCop" src="https://img.shields.io/badge/-RuboCop-000000?style=flat-square&logo=rubocop&logoColor=white" />
+  </a>
+</p>
 <!-- <h2></h2> -->
 <p>
   <a href="https://laravel.com/">
@@ -74,17 +86,7 @@
     <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-000000?style=flat-square&logo=mysql&logoColor=4479A1" />
   </a>
 </p>
-<p>
-  <a href="https://rubyonrails.org/">
-    <img alt="Rails" src="https://img.shields.io/badge/-Ruby on Rails-000000?style=flat-square&logo=rubyonrails&logoColor=CC0000" />
-  </a>
-  <a href="https://rubygems.org/">
-    <img alt="RubyGems" src="https://img.shields.io/badge/-RubyGems-000000?style=flat-square&logo=rubygems&logoColor=E9573F" />
-  </a>
-  <a href="https://rubocop.org/">
-    <img alt="RuboCop" src="https://img.shields.io/badge/-RuboCop-000000?style=flat-square&logo=rubocop&logoColor=white" />
-  </a>
-</p>
+
 <!--    <h2></h2> -->
 <p>
   <a href="https://www.djangoproject.com/">
