@@ -22,9 +22,9 @@
   <a href="https://www.php.net/">
     <img alt="PHP" src="https://img.shields.io/badge/-PHP-000000?style=flat-square&logo=php&logoColor=777BB4" />
   </a>
-  <a href="https://dev.java//"> 
+  <!-- <a href="https://dev.java//"> 
     <img alt="Java" src="https://img.shields.io/badge/-Java-000000?style=flat-square&logo=openjdk&logoColor=FFFFFF" />
-  </a>
+  </a> -->
 </p> --->
 <p align="left"> 
   <a href="https://whatwg.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
