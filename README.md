@@ -130,7 +130,7 @@
   </a>
 </p>
 
-<h3>Open source projects</h3>
+<!-- <h3>Open source projects</h3>
 <table>
   <thead align="center">
     <tr border: none;>
@@ -152,7 +152,7 @@
       <td><a href="https://github.com/ercsssn/rock-paper-scissors-project"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ercsssn&repo=rock-paper-scissors-project&title_color=fff&icon_color=fff&text_color=fff&bg_color=000000&hide_border=true&show_owner=true" /></a></td>
     </tr>
   </tbody>
-</table>
+</table> -->
 
 ### 📊 GitHub Stats
 
