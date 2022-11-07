@@ -41,7 +41,7 @@
   </a>
   <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="30" height="30"/>
   </a>
-  <a href="https://kotlinlang.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="30" height="30"/> </a> 
+ <!-- <a href="https://kotlinlang.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="30" height="30"/> </a> -->
 </p>
 
 ### Technology stacks I work with
@@ -60,7 +60,7 @@
   </a>
 </p>
 
-<p>
+<!-- <p>
   <a href="https://rubyonrails.org/">
     <img alt="Rails" src="https://img.shields.io/badge/-Ruby on Rails-000000?style=flat-square&logo=rubyonrails&logoColor=CC0000" />
   </a>
@@ -70,7 +70,7 @@
   <a href="https://rubocop.org/">
     <img alt="RuboCop" src="https://img.shields.io/badge/-RuboCop-000000?style=flat-square&logo=rubocop&logoColor=white" />
   </a>
-</p>
+</p> -->
 <!-- <h2></h2> -->
 <p>
   <a href="https://laravel.com/">
