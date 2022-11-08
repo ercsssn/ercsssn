@@ -97,7 +97,7 @@
   </a>
 </p>
 
-<p>
+<!--<p>
   <a href="https://flask.palletsprojects.com/en/2.1.x/">
     <img alt="Flask" src="https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white" />
   </a>
@@ -110,7 +110,7 @@
   <a href="https://www.docker.com/">
     <img alt="Docker" src="https://img.shields.io/badge/-Docker-000000?style=flat-square&logo=docker&logoColor=2496ED" />
   </a> 
-</p>
+</p> -->
 
 <p>
   <a href="https://numpy.org/">
