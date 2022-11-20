@@ -64,12 +64,12 @@
   <a href="https://rubyonrails.org/">
     <img alt="Rails" src="https://img.shields.io/badge/-Ruby on Rails-000000?style=flat-square&logo=rubyonrails&logoColor=CC0000" />
   </a>
-  <a href="https://rubygems.org/">
+  <!-- <a href="https://rubygems.org/">
     <img alt="RubyGems" src="https://img.shields.io/badge/-RubyGems-000000?style=flat-square&logo=rubygems&logoColor=E9573F" />
   </a>
   <a href="https://rubocop.org/">
     <img alt="RuboCop" src="https://img.shields.io/badge/-RuboCop-000000?style=flat-square&logo=rubocop&logoColor=white" />
-  </a>
+  </a> -->
 </p>
 <!-- <h2></h2> -->
 <p>
