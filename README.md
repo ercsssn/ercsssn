@@ -52,12 +52,12 @@
     <a href="https://nodejs.org/en/">
     <img alt="Node.js" src="https://img.shields.io/badge/-Node.js-000000?style=flat-square&logo=node.js&logoColor=339933" />
   </a> 
- <!-- <a href="https://expressjs.com/">
+  <a href="https://expressjs.com/">
     <img alt="Express" src="https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white" />
   </a>
   <a href="https://www.mongodb.com/">
     <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-000000?style=flat-square&logo=mongodb&logoColor=47A248" />
-  </a> -->
+  </a> 
 </p>
 
 <p>
