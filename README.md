@@ -85,9 +85,9 @@
   <a href="https://www.mysql.com/">
     <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-000000?style=flat-square&logo=mysql&logoColor=4479A1" />
   </a>
-  <a href="https://vuejs.org/">
+ <!-- <a href="https://vuejs.org/">
     <img alt="Vue" src="https://img.shields.io/badge/-Vue-000000?style=flat-square&logo=vue.js&logoColor=4FC08D" />
-  </a>
+  </a> -->
 </p>
 
 <!--    <h2></h2> -->
