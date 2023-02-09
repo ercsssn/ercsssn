@@ -60,7 +60,7 @@
   </a> 
 </p>
 
-<p>
+<!-- <p>
   <a href="https://rubyonrails.org/">
     <img alt="Rails" src="https://img.shields.io/badge/-Ruby on Rails-000000?style=flat-square&logo=rubyonrails&logoColor=CC0000" />
   </a>
