@@ -101,6 +101,9 @@
  <a href="https://www.heroku.com/">
     <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-000000?style=flat-square&logo=heroku&logoColor=430098" />
   </a>
+<a href="https://www.docker.com/">
+    <img alt="Docker" src="https://img.shields.io/badge/-Docker-000000?style=flat-square&logo=docker&logoColor=2496ED" />
+  </a>
 </p>
 
 <p>
@@ -109,10 +112,6 @@
   </a>
   <a href="https://jinja.palletsprojects.com/en/3.1.x/">
     <img alt="Jinja" src="https://img.shields.io/badge/-Jinja-000000?style=flat-square&logo=jinja&logoColor=B41717" />
-  </a>
-  
-  <a href="https://www.docker.com/">
-    <img alt="Docker" src="https://img.shields.io/badge/-Docker-000000?style=flat-square&logo=docker&logoColor=2496ED" />
   </a> 
 </p>
 
