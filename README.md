@@ -49,7 +49,7 @@
  <a href="https://reactjs.org/">
     <img alt="React" src="https://img.shields.io/badge/-React-000000?style=flat-square&logo=react&logoColor=61DAFB" />
  </a>
-    <a href="https://nodejs.org/en/">
+ <!--  <a href="https://nodejs.org/en/">
     <img alt="Node.js" src="https://img.shields.io/badge/-Node.js-000000?style=flat-square&logo=node.js&logoColor=339933" />
   </a> 
   <a href="https://expressjs.com/">
@@ -57,7 +57,7 @@
   </a>
   <a href="https://www.mongodb.com/">
     <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-000000?style=flat-square&logo=mongodb&logoColor=47A248" />
-  </a> 
+  </a> -->
 </p>
 
 <!-- <p>
