@@ -106,14 +106,14 @@
   </a>
 </p>
 
-<p>
+<!-- <p>
   <a href="https://flask.palletsprojects.com/en/2.1.x/">
     <img alt="Flask" src="https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white" />
   </a>
   <a href="https://jinja.palletsprojects.com/en/3.1.x/">
     <img alt="Jinja" src="https://img.shields.io/badge/-Jinja-000000?style=flat-square&logo=jinja&logoColor=B41717" />
   </a> 
-</p>
+</p> -->
 
 <p>
   <a href="https://numpy.org/">
